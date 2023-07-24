@@ -1,0 +1,210 @@
+*{
+    font-family: Roboto, sans-serif;
+    overflow-x:hidden;
+    margin: 0;
+}
+
+header {
+    overflow-y:hidden;
+    background-color: #1f2937;
+    width: 110%;
+    height: 100px;
+    margin: 0
+
+}
+
+.logo, .header {
+    margin-left: -10px;
+    margin-right: -10px;
+    margin-top: -10px;
+    color:white;
+    text-decoration:none;
+    position:relative;
+    top: 10%;
+    word-spacing: 2px;
+}
+
+.logo {
+    left:10%; 
+    font-weight: 900;
+    padding: 75px;
+    font-size: 24px;
+}
+
+.header{
+    left: 60%;
+    margin:10px;
+    font-weight:300;
+    font-size: 18px;
+}
+.main1:not(button) {
+overflow-y:hidden;
+position: relative;
+background-color: #1f2937;
+width: 101%;
+height: 350px;
+margin-left: -10px;
+margin-right: -10px;
+padding-bottom: 30px;
+margin-top: -21px;
+color:white;
+}
+.maintext:not(button) {
+    margin: 0;
+    position: relative;
+    left:25%;
+    bottom: -18%;
+}
+#button {
+    position: relative;
+    right: -490px;
+    bottom: -60px;
+    text-decoration: none;
+    color: white;
+    cursor: pointer;
+    border: 4px solid #017ced;
+    border-radius: 5px;
+    display: block;
+    font-size: 15px;
+    background-color: #017ced;
+    width: 350px;
+}
+#funkologo {
+    position: relative;
+    left: 45%;
+    bottom: 60%;
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: scale-down;
+    
+}
+#h1{
+    font-size: 48px;
+    font-weight: bolder;
+}
+#h1subtext{
+    font-weight: 300;
+    position:relative;
+    bottom: -53px;
+}
+.weird {
+    position:relative;
+    right: -13px;
+}
+#shopever {
+    position: relative;
+    bottom: 10px;
+    left: 60px;
+}
+.weird2 {
+    position: relative;
+    right: -7px;
+}
+.showcaseh1 {
+    text-align: center;
+    margin-top: 30px;
+}
+.fine {
+    overflow-y:hidden;
+    max-width: 200px;
+    position: relative;
+    left: 25.5%;
+    margin: 15px;
+}
+.paragraph {
+    overflow-y:hidden;
+    text-align: center;
+    display:inline-block;
+}
+#professor1 {
+    position: relative;
+    right: 22.5%;
+    bottom: -5px;
+}
+#yoda1 {
+    position: relative;
+    right: 355px;
+    bottom: -45px;
+}
+#leprechaun1 {
+    position: relative;
+    right: 222px;
+    bottom: -27px;
+}
+#lebron1 {
+    position: relative;
+    bottom: -25px;
+    right: 90px;
+}
+#showcase {
+    height: 525px;
+}
+#quotediv {
+    overflow-y:hidden;
+    padding-top: 70px;
+    padding-bottom: 97px;
+    background-color: #e5e7eb;
+    margin-top:0;
+    height: 50px;
+}
+#quote {
+    font-size: 60px;
+    font-weight: 300;
+    font-style: italic;
+    text-align: center;
+}
+#unknown {
+    width: 50%;
+    position: relative;
+    left: 60%;
+    bottom: -27px;
+}
+#white {
+    height: 300px;
+    background-color: white;
+    display: inline;
+}
+.bluediv {
+    overflow-y:hidden;
+    position: relative;
+    left:40%;
+    bottom: 60px;
+    height: 65px;
+    width: 25%;
+    background-color: #017ced;
+    padding: 20px;
+    text-align: center;
+    margin-top: 7%;
+    border: #017ced solid 4px;
+    border-radius: 8px;
+}
+#h3blue {
+    color: white;
+    text-align: left;
+    padding-left: -150px;
+    position: relative;
+    bottom: 10px;
+}
+#button2 {
+    font-weight: 900;
+    position: relative;
+    left: 80%;
+    bottom: 50px;
+    text-decoration: none;
+    color: white;
+    cursor: pointer;
+    border: 1px solid white;
+    border-radius: 5px;
+    display: block;
+    font-size: 15px;
+    background-color: #017ced;
+    width: 80px;
+    height: 40px;
+}
+.bluep {
+    font-weight: 300;
+    color: white;
+    position:relative;
+    left: -78px;
+    bottom: 10px;
+}
